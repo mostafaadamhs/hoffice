@@ -1,0 +1,10 @@
+meeting:
+http://localhost:3000/api/mt/meeting/update/5fc2416384ed1e339464521c
+http://localhost:3000/api/mt/meeting/getone/5fc2416384ed1e339464521c
+'http://localhost:3000/api/mt/meeting/getall/byuser/5fc23cd90f518737e028180e'
+'http://localhost:3000/api/mt/meeting/add/5fc23cd90f518737e028180e'
+'http://localhost:3000/api/mt/meeting/all'
+user:
+http://localhost:3000/api/usr/user/getone/5fc23cd90f518737e028180e
+http://localhost:3000/api/usr/user/add
+'http://localhost:3000/api/usr/user/login'
